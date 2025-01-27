@@ -1,10 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
+I'm a technology enthusiast passionate about **solving real-world problems** through innovative solutions.  
+With a degree in **Information Systems** and an **MBA in Data Science/Big Data**, I strive to combine technical expertise with data-driven insights to make an impact.
+
+## 💻 Work:
+I work as a Technical Architect on Windchill PLM software
+
+## 🌱 What I'm Learning:
+* **Spring Boot Framework**
+* **Advanced Java**
+* **Docker**
+* **Artificial Intelligence**
 
 <!--
-**homemdacosta/homemdacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Architect at ITC Infotech <br>
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
